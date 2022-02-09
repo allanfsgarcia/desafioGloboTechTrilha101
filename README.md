@@ -53,7 +53,7 @@ https://allanfsgarcia.github.io/desafioGloboTechTrilha101/
 Os testes foram efetuados visando o funcionamento correto da aplicação e a entrega de uma experiência enriquecedora para o usuário final.
 No HTML mantemos a semântica para acessibilidade e otimização dos motores de busca
 
-## 📦 Desenvolvimento
+## 📦 Desenvolvimento e Descrição da Aplicação.
 
 -Para implementação do sistema em um ambiente produtivo é necessário:
 
@@ -61,6 +61,10 @@ No HTML mantemos a semântica para acessibilidade e otimização dos motores de 
 -Ambiente com uma aplicação de banco de dados para armazenamento de informações(MySQL).
 -Cliente FTP e credenciais de acesso(FileZilla).
 
+Trata-se de uma cálculadora de IMC que funciona me uma página da web, através da calculadora conseguimos:
+-Adicionar novos pacientes com as informações de peso, altura e percentual de gordura.
+-Remover pacientes ao clicar duas vezes no nome do paciente
+-Consultar pacientes na tabela
 
 ## 🛠️ Construído com
 
