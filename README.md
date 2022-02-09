@@ -66,6 +66,9 @@ Trata-se de uma cálculadora de IMC que funciona me uma página da web, através
 -Remover pacientes ao clicar duas vezes no nome do paciente
 -Consultar pacientes na tabela
 
+![image](https://user-images.githubusercontent.com/91488719/153310107-012a74e4-4a62-436b-96de-1d23ddf46632.png)
+
+
 ## 🛠️ Construído com
 
 - HTML 5
