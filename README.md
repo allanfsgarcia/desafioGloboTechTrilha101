@@ -39,7 +39,7 @@ Caso seja um colaborador autorizado como contribuinte, basta efetuar o "fork" no
 ## ⚙️ Teste da aplicação
 
 Visando melhorar a imersão no projeto e o entendimento da a aplicação, foi efetuado um deploy em:
-https://allanfsgarcia.github.io/allanfsgarcia-desafioGloboTechTrilha101/
+https://allanfsgarcia.github.io/desafioGloboTechTrilha101/
 
 ### 🔩 Testes efetuados
 
@@ -79,7 +79,7 @@ Nós usamos o GIT para para controle de versão. Para as versões disponíveis, 
 * **Allan Garcia** - *Trabalho Inicial* - (https://github.com/allanfsgarcia)
 * **Alvro Maia** - *Colaborador* - (https://github.com/alvromaia)
 
-Você também pode ver a lista de todos os colaboradores (https://github.com/allanfsgarcia/allanfsgarcia-desafioGloboTechTrilha101) que participaram deste projeto.
+Você também pode ver a lista de todos os colaboradores (https://github.com/allanfsgarcia/desafioGloboTechTrilha101) que participaram deste projeto.
 
 ## 📄 Licença
 
